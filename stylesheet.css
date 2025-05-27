@@ -1,0 +1,155 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.nav-logo{
+    height: 80px;
+}
+.massbody{
+    background-image: url('https://tse2.mm.bing.net/th?id=OIP.qUsMbkG2LvEjIS5aM7f8LgHaEK&pid=Api&P=0&h=180');
+    background-size: cover;
+}
+.item-nav{
+    color: black;
+    font-family: 'poppins', sans-serif;
+    font-size: medium;
+}
+
+.item-nav:hover{
+    color: white;
+}
+.anchor{
+    margin-left: 1000px;   
+    
+}
+.body-section{
+    height: 85vh;
+
+}
+
+.box-left {
+    
+    color: white;
+    height: 50px;
+    font-family: 'Encode Sans' ,sans-serif;
+    text-align: right;
+    font-size: 60px;
+    padding-left: 250px;
+
+}
+.box-right {
+
+    height: 50vh;
+}
+.image{
+    height: 300px;
+}
+.para1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    
+}
+.about-heading{
+    color: white;
+    text-align: center;
+    font-family: 'Encode Sans' ,sans-serif;
+    
+}
+.para2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 30px;
+    
+}
+.what-we-do{
+    color: rgb(207, 232, 235);
+    text-align: center;
+    
+}
+.para3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 30px;
+    
+}
+.wedo{
+    text-align: center;
+    font-family: 'Encode Sans' ,sans-serif;
+    
+}
+.card{
+    background-color: transparent;
+    color: rgb(54, 39, 39);
+    border: 2px white solid;
+    padding: 20px;
+}
+
+.card:hover{
+    color: rgb(8, 60, 67);
+}
+.courses-offered{
+    text-align: center;
+    font-family: 'Encode Sans' ,sans-serif;
+
+}
+
+
+.card1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+}
+
+
+.card-p{
+      text-align: center;
+      font-size: 20px;
+}
+.card2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+}
+.card-p1{
+    text-align: center;
+    font-size: 20px;
+}
+.Workshops{
+    text-align: center;
+    font-family: 'Encode Sans' ,sans-serif;
+}
+.para4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 30px;
+}
+.Contact-us{
+    text-align: center;
+    font-family: 'Encode Sans' ,sans-serif;
+
+}
+.para5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 30px;
+    text-align: center;
+}
+.social-icon1{
+    text-align: center;
+}
+.insta{
+    height: 50px;
+}
+.linkedin{
+    height: 50px;
+}
+.youtube{
+    height: 50px;
+}
+.social-icon1{
+   margin: 5px;
+}
